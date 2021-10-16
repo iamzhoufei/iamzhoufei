@@ -9,7 +9,7 @@
  -->
  
 ### Hi，我是舟匪
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzhoufei&theme=react&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzhoufei&theme=default&show_icons=true)
 ----------------------------------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=LeetCode-Daily)](https://github.com/iamzhoufei/LeetCode-Daily)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=LearnReact-Daily)](https://github.com/iamzhoufei/LearnReact-Daily)
