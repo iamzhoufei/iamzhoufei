@@ -12,7 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzhoufei&theme=default&show_icons=true)
 ----------------------------------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=LeetCode-Daily)](https://github.com/iamzhoufei/LeetCode-Daily)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=LearnReact-Daily)](https://github.com/iamzhoufei/LearnReact-Daily)
 ----------------------------------------
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
