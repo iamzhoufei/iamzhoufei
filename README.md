@@ -10,7 +10,7 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzhoufei&theme=default&show_icons=true)
 ----------------------------------------
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=no-rabbit-will-work-admin)](https://github.com/iamzhoufei/no-rabbit-will-work-admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=daydayup)](https://github.com/iamzhoufei/daydayup)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamzhoufei&repo=my-nest-app)](https://github.com/iamzhoufei/my-nest-app)
 ----------------------------------------
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
